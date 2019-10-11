@@ -8,3 +8,5 @@ Use Codesandox.io
 Just copy paste the code which is shown as per the directories to run without errors
 
 package.json has the dependencies
+
+geoJson files are in the src directory no need to copy those
